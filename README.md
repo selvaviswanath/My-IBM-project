@@ -15,12 +15,12 @@ Team ID:  PNT2022TMID26273
 
 ### Phases completed
 
- - [Phase 1]                                                                                    : Completed
- - [Phase 2 - Innovation & Problem Solving]                                                     : Completed
- - [Phase 3 - Project Design using DesignThinking]                                              : Completed
- - [Phase 4 - Requirement Analysis using Critical Thinking & Technical Architecture / Stack]    : Completed
- - [Phase 5 - Project Planning using Agile Methodologies]                                       : Completed
- - [Development phase]                                                                          : Work in progress (Sprint 2 completed)
+ - [Phase 1]()                                                                                  : Completed
+ - [Phase 2 - Innovation & Problem Solving](https://github.com/IBM-EPBL/IBM-Project-1571-1658398856/tree/main/Project%20design%20%26%20planning/Ideation%20phase)                                                   : Completed
+ - [Phase 3 - Project Design using DesignThinking](https://github.com/IBM-EPBL/IBM-Project-1571-1658398856/tree/main/Project%20design%20%26%20planning/Project%20Design%20Phase-1)                                            : Completed
+ - [Phase 4 - Requirement Analysis using Critical Thinking & Technical Architecture / Stack](https://github.com/IBM-EPBL/IBM-Project-1571-1658398856/tree/main/Project%20design%20%26%20planning/Project%20Design%20Phase-2)  : Completed
+ - [Phase 5 - Project Planning using Agile Methodologies](https://github.com/IBM-EPBL/IBM-Project-1571-1658398856/tree/main/Project%20design%20%26%20planning/Project%20Planning)                                       : Completed
+ - [Development phase](https://github.com/IBM-EPBL/IBM-Project-1571-1658398856/tree/main/Project%20Development%20Phase)                                                                          : Work in progress (Sprint 2 completed)
 
 ## About this project
 
