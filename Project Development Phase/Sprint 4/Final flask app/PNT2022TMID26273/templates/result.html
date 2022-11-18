@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PNT2022TMID26273</title>
+    <meta charset="UTF-8" >
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="login-page">
+      <div class="form">
+        <div class="login">
+          <div class="login-header">
+              <h2> Welcome ..</h2>
+            <h2>Phishing URl detector</h2>
+            <p>Enter the URL in the box below:</p>
+          </div>
+        </div>
+        <form action="/" method="post"   class="login-form">
+          <input type="text" name = "url" placeholder="Website url"/>
+          <input type="submit" value="submit" class="button">
+        </form>
+          {% if val==1 %}
+          <div style="padding-bottom: 20px; padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background: green;
+  border-radius: 50px;
+  max-width: 300px;
+  text-align: center;
+  position: relative;
+  color: #f2f2f2;">
+            <span>
+                {{ msg }}
+            </span>
+            <span>
+                {{ res }}
+            </span>
+        </div>
+          {% else %}
+          <div style="padding-bottom: 20px; padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background: red;
+  border-radius: 50px;
+  max-width: 300px;
+  text-align: center;
+  position: relative;
+  color: #f2f2f2;">
+            <span>
+                {{ msg }}
+            </span>
+            <span>
+                {{ res }}
+            </span>
+        </div>
+          {% endif %}
+      </div>
+
+    </div>
+</body>
+</html>
