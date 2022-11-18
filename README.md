@@ -20,8 +20,9 @@ Team ID:  PNT2022TMID26273
  - [Phase 3 - Project Design using DesignThinking](https://github.com/IBM-EPBL/IBM-Project-1571-1658398856/tree/main/Project%20design%20%26%20planning/Project%20Design%20Phase-1)                                            : Completed
  - [Phase 4 - Requirement Analysis using Critical Thinking & Technical Architecture / Stack](https://github.com/IBM-EPBL/IBM-Project-1571-1658398856/tree/main/Project%20design%20%26%20planning/Project%20Design%20Phase-2)  : Completed
  - [Phase 5 - Project Planning using Agile Methodologies](https://github.com/IBM-EPBL/IBM-Project-1571-1658398856/tree/main/Project%20design%20%26%20planning/Project%20Planning)                                       : Completed
- - [Development phase](https://github.com/IBM-EPBL/IBM-Project-1571-1658398856/tree/main/Project%20Development%20Phase)                                                                          : Work in progress (Sprint 2 completed)
+ - [Development phase](https://github.com/IBM-EPBL/IBM-Project-1571-1658398856/tree/main/Project%20Development%20Phase/Sprint%204/Final%20flask%20app/PNT2022TMID26273)                                                                          : Completed (all sprints)
 
+ - IBM Cloud account created
 ## About this project
 
 There are a number of users who purchase products online and make payments through e-banking. There are e-banking websites that ask users to provide sensitive data such as username, password & credit card details, etc., often for malicious reasons. This type of e-banking website is known as a phishing website. Web service is one of the key communications software services for the Internet. Web phishing is one of many security threats to web services on the Internet. 
