@@ -23,6 +23,10 @@ Team ID:  PNT2022TMID26273
  - [Development phase](https://github.com/IBM-EPBL/IBM-Project-1571-1658398856/tree/main/Project%20Development%20Phase/Sprint%204/Final%20flask%20app/PNT2022TMID26273)                                                                          : Completed (all sprints)
 
  - IBM Cloud account created
+
+### Deployed on IBM Cloud and ML model tested
+
+
 ## About this project
 
 There are a number of users who purchase products online and make payments through e-banking. There are e-banking websites that ask users to provide sensitive data such as username, password & credit card details, etc., often for malicious reasons. This type of e-banking website is known as a phishing website. Web service is one of the key communications software services for the Internet. Web phishing is one of many security threats to web services on the Internet. 
