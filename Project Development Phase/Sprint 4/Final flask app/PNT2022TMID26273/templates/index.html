@@ -7,14 +7,34 @@
     <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
-    <div class="login-page">
-      <div class="form">
+    <header class="s-header">
+        <div class="row s-header__nav-wrap">
+            <nav class="s-header__nav">
+
+                <ul>
+                    <div class="nav-title">
+                        Team ID: PNT2022TMID26273
+                    </div>
+                    <li><a class="smoothscroll" href="#check">Check phishing</a></li>
+                    <li><a class="smoothscroll" href="https://github.com/IBM-EPBL/IBM-Project-1571-1658398856">Git Repo</a></li>
+                    <li><a class="smoothscroll" href="#team">Team details</a></li>
+                    li><a class="smoothscroll" href="#phishing">What is phishing?</a></li>
+                </ul>
+            </nav>
+        </div> <!-- end row -->
+
+        <a class="s-header__menu-toggle" href="#0" title="Menu">
+            <span class="s-header__menu-icon"></span>
+        </a>
+    </header>
+
+    <section id="check">
+    <div class="login-page" >
+      <div class="formm">
         <div class="login">
-          <div class="login-header">
               <h2> Welcome ..</h2>
             <h2>Phishing URl detector</h2>
             <p>Enter the URL in the box below:</p>
-          </div>
         </div>
         <form action="/" method="post"   class="login-form">
           <input type="text" name = "url" placeholder="Website url"/>
@@ -22,5 +42,43 @@
         </form>
       </div>
     </div>
+    </section>
+
+    <section id="phishing">
+        <div class="login-page-con">
+            <div class="formm-con">
+
+                <h3>Naalaiya thiran Project 2022: <br></h3>
+            <span class="heading">
+                Web phishing
+            </span>
+            <p class = "content">
+                Web phishing aims to steal private information, such as usernames, passwords, and credit card details, by way of impersonating a legitimate entity.
+
+It will lead to information disclosure and property damage.
+
+Large organizations may get trapped in different kinds of scams.
+
+This Guided Project mainly focuses on applying a machine-learning algorithm to detect Phishing websites.
+
+In order to detect and predict e-banking phishing websites, we proposed an intelligent, flexible and effective system that is based on using classification algorithms. We implemented classification algorithms and techniques to extract the phishing datasets criteria to classify their legitimacy. The e-banking phishing website can be detected based on some important characteristics like URL and domain identity, and security and encryption criteria in the final phishing detection rate. Once a user makes a transaction online when he makes payment through an e-banking website our system will use a data mining algorithm to detect whether the e-banking website is a phishing website or not.
+            </p>
+            </div>
+        </div>
+    </section>
+
+    <section id="team">
+        <div class="login-page-tem" >
+          <div class="formm-team">
+              <h3>
+                  Team ID: PNT2022TMID26273 <br><br>
+                  Team members : <h4>Rohith VS | Pandian S | Santhosh kumar S <br>Selva viswanath S</h4>
+              </h3>
+
+          </div>
+        </div>
+    </section>
+
+
 </body>
 </html>
