@@ -51,3 +51,15 @@ By the end of this project:
 - You will be able to know how to find the accuracy of the model.
 - You will be able to build web applications using the Flask framework.
 
+## Classification report
+### Random forest classifier
+
+![classification report](/Imgs/Classification%20report.png)
+
+
+![screenshot1](/Imgs/screen1.png)
+![screenshot2](/Imgs/screen2.png)
+
+
+## Accuracy :
+### 97.11363636363637
